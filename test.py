@@ -10,6 +10,6 @@
                    2017/3/7: 
 -------------------------------------------------
 """
-__author__ = 'JHao'
+__author__ = 'JHao '
 
 from Schedule import ProxyRefreshSchedule
