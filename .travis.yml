@@ -7,4 +7,4 @@ os:
 install:
   - pip install -r requirements.txt
 
-script: python test.py
+script: python Run/main.py
